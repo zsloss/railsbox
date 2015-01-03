@@ -34,3 +34,6 @@ sudo apt-get -y install nodejs
 gem install rails
 
 rbenv rehash
+
+# Move the newapp.sh script into the home folder
+mv /vagrant/newapp.sh ~/
